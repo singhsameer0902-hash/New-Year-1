@@ -13,7 +13,7 @@ function MessageCard({ isActive }) {
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
 
-  const message = `[Recipient Name],
+  const message = `[SHEVUUU❤️],
 
 Wishing you a Happy New Year filled with hope, joy, and new beginnings!
 
@@ -23,7 +23,7 @@ Let’s cherish the memories of the past year and look forward to all the amazin
 
 Happy New Year! 🎆
 
-— Rawdiaries.24`;
+— Samm`;
 
   // Handle page transitions
   useEffect(() => {
